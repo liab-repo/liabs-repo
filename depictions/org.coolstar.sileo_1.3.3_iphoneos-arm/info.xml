@@ -1,5 +1,5 @@
 <package>
-	<id>org.coolstar.sileo_1.3.3_iphoneos-arm</id>
+	<id>org.coolstar.sileo</id>
 	<name>Sileo Installer (Portable)</name>
 	<version>1.3.3</version>
 	<compatibility>
